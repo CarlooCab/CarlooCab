@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlo</h1>
-<h3 align="center">A Computer Science Engineer and Mobile Developer passionate about building elegant and functional solutions. 💡 I enjoy creating applications that not only work but also enhance the user experience</h3>
+<h3 align="center">A Mobile Developer passionate about building elegant and functional solutions. 💡 I enjoy creating applications that not only work but also enhance the user experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlitooook&label=Profile%20views&color=0e75b6&style=flat" alt="carlitooook" /> </p>
 
