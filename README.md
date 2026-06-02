@@ -3,13 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlitooook&label=Profile%20views&color=0e75b6&style=flat" alt="carlitooook" /> </p>
 
-- 🔭 I’m currently working on [TulipApp](https://github.com/CarlitooooK/Tulip_App.git)
-
-- 🌱 I’m currently working with **Fluter, Android, Swift, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CarlitooooK](https://github.com/CarlitooooK)
 
-- ⚡ Fun fact **I enjoy anime as all programmers LOL**
+- ⚡ Fun fact **I love Michael Jackson**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
